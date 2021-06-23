@@ -1,4 +1,8 @@
-﻿-- 2. Construct a table called Department
+﻿-- 1. Create database
+-- CREATE DATABASE CompanyDb;
+
+
+-- 2. Construct a table called Department
 --CREATE TABLE Department (
 --	Id int PRIMARY KEY IDENTITY(1,1),
 --	[Name] nvarchar(25) NOT NULL,
